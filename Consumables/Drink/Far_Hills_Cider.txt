@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-12T19:55:49-07:00
+
+====== Far Hills Cider ======
+Created Monday 12 March 2018
+
+A crisp and refreshing cider that originated from a town called Far Hills in the Lowlands. It is renowned for its flavour and ability to stay good for a long time without any measures taken to preserve.
